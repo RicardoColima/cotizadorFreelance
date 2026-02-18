@@ -1,3 +1,5 @@
+# En desarrollo
+
 # QuotePro - Sistema de Cotizaciones para Freelancers
 
 QuotePro es una aplicación web SaaS moderna para la gestión de cotizaciones profesionales, construida con Vue 3, Vite, TailwindCSS y Pinia. Esta aplicación simula un entorno de producción completo, utilizando **LocalStorage** para la persistencia de datos, eliminando la necesidad de un backend real para esta demostración.
